@@ -2,6 +2,8 @@
 
 My name is Martin Gaido, I'm an independent software developer focused in GNU/Linux, open source software, full-stack web development, cloud computing and artificial intelligence with expertise in software engineering and DevOps methodologies. I'm also a classical pianist and composer, entrepreneur, gamer and full-time geek.
 
+I mostly work with BASH, ZSH, Javascript, JS Frameworks (such as ReactJS and VueJS), Python and some C++. My research on AI is related to computer vision and natural language processing.
+
 — Former co-founder and activist of the Miami Linux Users Group.<br>
 — Former co-founder and activist of the Linux Argentina Users Group.<br>
 — Freelance consultant, AI researcher and entrepreneur.<br>
