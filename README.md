@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is Martin, I am a software developer focused in GNU/Linux, open source software, full-stack web development, cloud computing and artificial intelligence (AI) with expertise in software engineering and DevOps methodologies. I'm also a classical pianist and composer, entrepreneur, gamer and full-time geek.
+My name is Martin, I am a software developer focused in GNU/Linux, open source software, full-stack web development, cloud computing and artificial intelligence (AI) with expertise in software engineering and DevOps methodologies. I am also a classical pianist and composer, entrepreneur, gamer and full-time geek.
 
 I mostly work with BASH, ZSH, Javascript, JS Frameworks (such as ReactJS and VueJS), Python and C++. My research on AI is related to computer vision and natural language processing.
 
