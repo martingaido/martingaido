@@ -1,4 +1,4 @@
-### Hi! 👋
+### Hello! 👋
 
 My name is Martin, I am a senior software developer focused in GNU/Linux, open source software/hardware, full-stack web development, blockchain development, cloud computing, IoT, artificial intelligence (AI) and automation, with expertise in software engineering and DevOps methodologies. I am also a classical pianist and composer, entrepreneur, gamer and full-time geek.
 
