@@ -4,7 +4,6 @@ My name is Martin, I am a senior software developer focused in GNU/Linux, open s
 
 I mostly work with BASH, ZSH, Javascript, JS Frameworks (such as ReactJS and VueJS), Python, Solidity and C++. My research on AI is related to computer vision and natural language processing.
 
-— CTO at <a href="https://www.sweeppeasweeps.com/" target="_blank">Sweeppea</a>.<br>
 — Former co-founder of the Miami Linux Users Group.<br>
 — Former co-founder of the Linux Argentina Users Group.<br>
 — Freelance consultant, AI researcher and entrepreneur.<br>
