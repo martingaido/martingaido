@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm a senior software developer focused in GNU/Linux, open source software/hardware, web development, blockchain development, cloud computing, IoT, artificial intelligence (AI) and automation with expertise in software engineering and DevOps methodologies. I am also a <a href="https://open.spotify.com/artist/2NlrCUgNAXPMTxzKhgCX6b" target="_blank">classical pianist and composer</a>, entrepreneur, gamer and full-time geek.
+I'm a software developer focused in GNU/Linux, open source software/hardware, web development, blockchain development, cloud computing, IoT, artificial intelligence (AI) and automation with expertise in software engineering and DevOps methodologies. I am also a <a href="https://open.spotify.com/artist/2NlrCUgNAXPMTxzKhgCX6b" target="_blank">classical pianist and composer</a>, entrepreneur, gamer and full-time geek.
 
 I mostly work with BASH, ZSH, Javascript, JS frameworks and libs (such as React and Vue.js), Python, Solidity and some C++. My research on AI is related to computer vision and natural language processing.
 
